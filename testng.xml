@@ -1,0 +1,11 @@
+<suite name="API Suite">
+
+<test name="UserTests">
+
+<classes>
+<class name="tests.UserTests"/>
+</classes>
+
+</test>
+
+</suite>
